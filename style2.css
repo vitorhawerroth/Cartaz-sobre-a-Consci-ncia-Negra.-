@@ -1,0 +1,17 @@
+body{
+    background-color: wheat;
+}
+
+
+.img{
+    background-image: url(zumbi.png);
+    background-size: cover;
+    height: 607px;
+    width: 1238px;
+    translate: -20px -30px;
+}
+.poema{
+    translate: 10px -500px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
